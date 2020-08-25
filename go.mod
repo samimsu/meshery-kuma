@@ -15,12 +15,14 @@ require (
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/kumarabd/go-http v0.0.0-20200731120215-4f5f95fb4f30 // indirect
 	github.com/kumarabd/gokit v0.2.0
+	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	github.com/spf13/viper v1.7.1
-	go.opentelemetry.io/otel v0.10.0
-	go.opentelemetry.io/otel/exporters/trace/jaeger v0.10.0
-	go.opentelemetry.io/otel/sdk v0.10.0
-	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
+	go.opentelemetry.io/otel v0.11.0
+	go.opentelemetry.io/otel/exporters/trace/jaeger v0.11.0
+	go.opentelemetry.io/otel/sdk v0.11.0
+	golang.org/x/net v0.0.0-20200707034311-ab3426394381
 	google.golang.org/grpc v1.31.0
+	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	istio.io/api v0.0.0-20190905172106-906cbe6415a5 // indirect
 	k8s.io/api v0.18.6
 	k8s.io/apimachinery v0.18.6
