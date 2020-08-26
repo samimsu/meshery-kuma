@@ -20,7 +20,7 @@ require (
 	go.opentelemetry.io/otel/exporters/trace/jaeger v0.10.0
 	go.opentelemetry.io/otel/sdk v0.10.0
 	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
-	google.golang.org/grpc v1.31.0
+	google.golang.org/grpc v1.31.1
 	istio.io/api v0.0.0-20190905172106-906cbe6415a5 // indirect
 	k8s.io/api v0.18.8
 	k8s.io/apimachinery v0.18.8
